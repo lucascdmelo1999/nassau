@@ -1,4 +1,4 @@
-package nassau;
+package AtvJava;
 
 public class Exe6 {
 	 int a;
