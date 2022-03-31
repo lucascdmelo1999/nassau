@@ -15,10 +15,10 @@ public class Ex8 {
 		for(int i = x.length - 1; i >= 0 ;i--) {
 			System.out.println("X -> "+ i + " = " + x[i]);
 		}
-		
+		System.out.println("");
 		//for each so "liner" ou seja so para ++
 		for(int v : x) {
-			System.out.println("V -> "+ v + " = " + i++);
+			System.out.println("V -> "+ i++ + " = " + v);
 		};
 	}
 		
