@@ -19,10 +19,14 @@ public class Ex8 {
 		//for each so "liner" ou seja so para ++
 		for(int v : x) {
 			System.out.println("V -> "+ i++ + " = " + v);
+			// if ternario concatenados
+			System.out.println( v > 100 ? v : v >= 10 ? v : x );
 		};
 	}
 		
 	public static void main (String [] args) {
 		Ex8 c = new Ex8();
+		
+		
 	}
 }
