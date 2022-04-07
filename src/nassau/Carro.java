@@ -3,14 +3,14 @@ package nassau;
 
 public class Carro {
 	
-	private String cor;
-	private String modelo;
+	private String cor = "preto";
+	private String modelo = "gol";
 	
 	
-	public Carro(String cor, String modelo) {
-		this.cor = cor;
-		this.modelo = modelo;
-	}
+	//public Carro(String cor, String modelo) {
+		//this.cor = cor;
+		//this.modelo = modelo;
+	//}
 	public String getCor() {
 		return cor;
 	}
