@@ -9,8 +9,8 @@ public class Ex8 {
 		x[1] = 10;
 		x[2] = 20;
 		x[3] = 40;
-
-		for(int i = x.length - 1; i >= 0 ;i--) {
+		
+		for(int i = x.length - 1;i >= 0 ;i--) {
 			System.out.println("X -> "+ i + " = " + x[i]);
 		}
 	}
