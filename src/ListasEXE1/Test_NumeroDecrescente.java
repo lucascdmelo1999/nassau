@@ -7,7 +7,7 @@ public class Test_NumeroDecrescente {
 		
 		NumeroDecrescente nd = new NumeroDecrescente();
 		
-		System.out.println(nd.numerodecrescente(20));
+		System.out.println(nd.numerodecrescente(10));
 		
 	}
 

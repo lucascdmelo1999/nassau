@@ -9,6 +9,11 @@ public class MaiorNumero {
 	int b;
 	int result;
 	
+	public MaiorNumero() {
+		
+	}
+	
+	
 	public int maiornumero(int a, int b) {
 		if(a > b) {
 			result = a;
