@@ -11,7 +11,7 @@ public class Trocarnumero {
 	}
 	public String trocarnumero() {
 		
-		return this.num_a + " = A " + this.num_b + " = B";  
+		return this.num_a + " = A " + this.num_b + " = B";
 	}
 
 }
