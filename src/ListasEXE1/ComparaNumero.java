@@ -14,7 +14,7 @@ public class ComparaNumero {
 		}if(a > b) {
 			result = a;
 			System.out.print("A é maior: ");
-		}else if(a < b) {
+		}else {
 			result = b;
 			System.out.print("B é maior: ");
 		}
