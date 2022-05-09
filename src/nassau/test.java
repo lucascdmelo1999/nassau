@@ -15,11 +15,11 @@ public class test {
 		//System.out.println(p1.informaIdade());	
 		
 		//Carro car = new Carro("preto","gol");
-		Carro car = new Carro();
+		//Carro car = new Carro();
 
 		
-		System.out.println(car.getCor());
-		System.out.println(car.getmodelo());
+		//System.out.println(car.getCor());
+		//System.out.println(car.getmodelo());
 	}
 
 }
