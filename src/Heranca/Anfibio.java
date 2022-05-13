@@ -1,4 +1,4 @@
-package nassau;
+package Heranca;
 
 public class Anfibio extends Animal{
 	
