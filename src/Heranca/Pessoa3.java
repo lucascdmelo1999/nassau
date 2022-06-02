@@ -1,7 +1,7 @@
 package Heranca;
 
 public class Pessoa3 {
-	private String nome;
+	protected String nome;
 
 	public String getNome() {
 		return nome;
@@ -9,6 +9,10 @@ public class Pessoa3 {
 
 	public void setNome(String nome) {
 		this.nome = nome;
+	}
+	
+	public String denominacao() {
+		return "SOU Pessoa";
 	}
 
 }
