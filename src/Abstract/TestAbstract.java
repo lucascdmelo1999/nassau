@@ -1,5 +1,8 @@
 package Abstract;
 
+import Interface.ControleRemoto;
+import Interface.Tv;
+
 public class TestAbstract {
 	
 	public static void main(String[] args) {

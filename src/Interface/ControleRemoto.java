@@ -1,4 +1,4 @@
-package Abstract;
+package Interface;
 
 public interface ControleRemoto {
 
