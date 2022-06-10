@@ -2,22 +2,24 @@ package ProvaAV2.Interface;
 
 public class Agenda implements Contato {
 
+	static String nome;
+	static String contato;
+	static String tipo;
+	
+	
 	@Override
 	public String getNome() {
-		
-		return null;
+		return nome;
 	}
 
 	@Override
 	public String getContato() {
-		
-		return null;
+		return contato;
 	}
 
 	@Override
 	public String getTipo() {
-		
-		return null;
+		return tipo;
 	}
 
 }
